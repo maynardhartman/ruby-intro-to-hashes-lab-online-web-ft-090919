@@ -6,7 +6,7 @@ def actor
   actor = {:name => "Dwayne The Rock Johnson"}
 end
 
-def monopoly_with_top_tier
+def monopoly_with_first_tier
   monolopy = {
     :railroads => {}
 	}
